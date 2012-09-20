@@ -1,0 +1,16 @@
+{
+  "name": "test-vfs",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "test-vfs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "vfs-local": "~0.3.4",
+    "vfs-http-adapter": "~0.2.3"
+  }
+}
