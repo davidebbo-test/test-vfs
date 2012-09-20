@@ -11,6 +11,7 @@
   "license": "BSD",
   "dependencies": {
     "vfs-local": "~0.3.4",
-    "vfs-http-adapter": "~0.2.3"
+    "vfs-http-adapter": "~0.2.3",
+    "stack": "~0.1.0"
   }
 }
